@@ -91,7 +91,7 @@
     "istanbul-reports": "^1.1.4",
     "md5-hex": "^1.2.0",
     "merge-source-map": "^1.0.2",
-    "micromatch": "^3.1.9",
+    "micromatch": "^4.0.0",
     "mkdirp": "^0.5.0",
     "npm": "^5.7.1",
     "resolve-from": "^2.0.0",
